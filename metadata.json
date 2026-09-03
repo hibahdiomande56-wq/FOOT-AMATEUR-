@@ -1,0 +1,6 @@
+{
+  "name": "FootAmateur Studio",
+  "description": "Plateforme SaaS gérée pour clubs amateurs de football : gestion des événements, effectifs, demandes et génération automatique d'affiches et résumés de match pour les réseaux sociaux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
